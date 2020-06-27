@@ -1,0 +1,14 @@
+	<p>
+				Welcome to my first website!
+			</p>
+
+			<p>
+				I am Sing Hui, a Year 3 Civil Engineering Student studying in NUS. I am actively involved in 
+        various CCAs in my hostel, and I am especially passionate about playing sports and keeping fit. I aspire to become a competent and innovative Civil Engineer, and to have a fulfilling career in building useful infrastructures for the world.
+			</p>
+			<p>
+				The reason why I decided to join Smartcademy's Web App Devleopment Class is to expand my knowledge on programming. 
+			</p>
+      <p>
+        Please take a look at my website, and do provide me feedback on how to improve!
+        </p>
