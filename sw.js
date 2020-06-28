@@ -46,3 +46,10 @@ self.addEventListener('message', function (event) {
     self.skipWaiting();
   }
 });
+
+let filesToCache = [
+  'index.html',
+  'gallery.json',
+  'script.js',
+  'style.css',
+]
